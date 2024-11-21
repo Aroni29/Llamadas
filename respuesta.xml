@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say language="es-ES" voice="alice">
+        Hola, esta es una llamada automatizada de prueba. Gracias por atender.
+    </Say>
+</Response>
