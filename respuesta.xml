@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say language="es" voice="woman">Hola, ¿cómo estás? Esta es una llamada automatizada.</Say>
+  <Say language="es" voice="man">Hola, ¿cómo estás? Esta es una llamada automatizada.</Say>
 </Response>
